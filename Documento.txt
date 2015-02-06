@@ -1,2 +1,6 @@
-Meu documento V2
-Projeto do jão com git
+Meu documento V3
+Projeto do jão com git.
+
+Este projeto é apenas para conhecer o git e nada além.
+Não existem direitos autorias sobre o mesmo e pode ser usado 
+para outros fins por qualquer outro usuário.
